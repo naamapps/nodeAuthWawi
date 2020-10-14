@@ -1,0 +1,28 @@
+{
+  "name": "singit-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "jwt-decode": "^2.2.0",
+    "mongoose": "^5.9.10",
+    "multer": "^1.4.2",
+    "nodemailer": "^6.4.11",
+    "nodemon": "^2.0.3",
+    "querystring": "^0.2.0",
+    "rxjs": "^6.5.5",
+    "unirest": "^0.6.0"
+  }
+}
